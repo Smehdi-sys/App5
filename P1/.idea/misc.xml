@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/Downloads/New folder (2)/Week6Assignment/app/src/main/res/layout/activity_rating.xml" value="0.25" />
+        <entry key="..\:/Users/pc/Downloads/New folder (2)/Week6Assignment/app/src/main/res/layout/activity_welcome.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/Downloads/New folder (2)/Week6Assignment/app/src/main/res/layout/settings_activity.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/Downloads/New folder (2)/Week6Assignment/app/src/main/res/xml/root_preferences.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

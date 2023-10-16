@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        app:entries="@array/rating_labels" app:entryValues="@array/rating_values"
+        app:key="default_rating" app:title="@string/default_choice"/>
+    <SwitchPreference
+        app:key="dark_theme"
+        app:title="@string/theme_choice" app:defaultValue="false" />
+</PreferenceScreen>
